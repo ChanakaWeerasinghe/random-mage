@@ -1,5 +1,10 @@
 # 🎨 Random Image Viewer (Flutter)
 
+Demo here:
+```
+https://drive.google.com/file/d/1K_ohNNYy9pil9L211dlA7fUFjbvclXB1/view?usp=drive_link
+```
+
 A minimal, elegant **Flutter mobile app** that fetches random images from an API and adapts the background color dynamically based on the image’s dominant color.
 
 This project demonstrates clean Flutter architecture, reactive UI, state management, and smooth transitions while following best practices for code structure and error handling.
@@ -175,7 +180,7 @@ A short screen recording is included to show:
 4. Tapping “Another” multiple times
 5. Error message and retry button
 
-Add your demo here:
+Demo here:
 ```
 https://drive.google.com/file/d/1K_ohNNYy9pil9L211dlA7fUFjbvclXB1/view?usp=drive_link
 ```
