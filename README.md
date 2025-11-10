@@ -177,7 +177,7 @@ A short screen recording is included to show:
 
 Add your demo here:
 ```
-/demo/demo.mp4
+https://drive.google.com/file/d/1K_ohNNYy9pil9L211dlA7fUFjbvclXB1/view?usp=drive_link
 ```
 
 ---
